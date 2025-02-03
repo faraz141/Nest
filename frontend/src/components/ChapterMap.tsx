@@ -70,7 +70,7 @@ const ChapterMap = ({ geoLocData, style }) => {
     }
   }, [geoLocData])
 
-  return <div id="chapter-map" className="rounded-2xl" style={style} />
+  return <div id="chapter-map" className="rounded-2xl " style={style} />
 }
 
 export default ChapterMap

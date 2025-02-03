@@ -67,7 +67,9 @@
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
   }
-
+  .dark #chapter-map {
+    background-color: #282d33;
+  }
   body {
     background-color: var(--background);
     color: var(--text);
